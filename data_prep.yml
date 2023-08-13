@@ -1,0 +1,5 @@
+images_orig: /home/${env:USER}/data/goods-barcodes/images/
+images_train: /home/${env:USER}/data/goods-barcodes/train_img/
+images_val: /home/${env:USER}/data/goods-barcodes/val_img/
+images_test: /home/${env:USER}/data/goods-barcodes/test_img/
+images_mini: /home/${env:USER}/data/goods-barcodes/mini_img/

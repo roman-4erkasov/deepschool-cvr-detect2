@@ -1,0 +1,8 @@
+path: ../../data/goods-barcodes  # dataset root dir
+train: train_img # relative to 'path'
+val: val_img  # relative to 'path'
+test: test_img # (optional)
+
+nc: 1
+names: 
+    0: "barcode"
